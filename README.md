@@ -1,4 +1,4 @@
-# PIC18F2550_Dev_Board
+# PIC18F2550 Development Board
 KiCAD PCB Design of PIC18F2550 development board. Similar to Arduino functionality.
 
 ## PCB
